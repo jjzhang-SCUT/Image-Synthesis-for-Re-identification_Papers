@@ -31,7 +31,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
   [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
   <details>
     <summary>Notes</summary>
-    <img src="img/VAMI.png" width = "267" height = "477" alt="referformer" align=center />  
+    <img src="img/VAMI.png" alt="referformer" align=center />  
     - Key points:
          - Important.
          - SOTA.
