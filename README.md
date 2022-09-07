@@ -5,14 +5,6 @@
 Nir Aharon, Roy Orfaig, Ben-Zion Bobrovsky   
 [[paper](https://arxiv.org/abs/2206.14651)]  [[code](https://github.com/NirAharon/BOT-SORT)]
 
-+ Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
-Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
-[[paper](https://arxiv.org/pdf/2203.14360.pdf)]  [[code](https://github.com/noahcao/OC_SORT)]
-
-+ TR-MOT: Multi-Object Tracking by Reference (arXiv 2022-03)  
-Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang   
-[[paper](https://arxiv.org/pdf/2203.16621.pdf)]  [code]  
-
 
 ## ECCV 2022  
 
@@ -30,10 +22,6 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
 
 
 ## CVPR 2022  
-
-+ Adiabatic Quantum Computing for Multi Object Tracking. CVPR 2022  
-Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf)]  
 
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
 Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
