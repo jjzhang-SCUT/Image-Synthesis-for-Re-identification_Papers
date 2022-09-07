@@ -6,8 +6,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 <!-- -   [arXiv 2022](#arXiv-2022)  -->
 <!--     -   [Next](#next)  -->
 
-### CVPR 2022  
----
+## CVPR 2022  
 
 + Model: Title (arXiv 2022-07)  
   Author1, Author2, ...
@@ -21,13 +20,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
   [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
 
 ## ECCV 2022  
-***
 
 + Model: Title (arXiv 2022-07)  
   Author1, Author2, ...
   [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
   
-### arXiv 2022 
+## arXiv 2022 
 
 + Model: Title (arXiv 2022-07)  
   Author1, Author2, ...
