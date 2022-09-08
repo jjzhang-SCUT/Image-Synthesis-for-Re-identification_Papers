@@ -200,8 +200,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + [Face MVS] Topologically Consistent Multi-View Face Inference Using Volumetric Sampling     
 [[paper](http://arxiv.org/abs/2110.02948)]  [[code]()]
  
+## Style Synthesis
 
-
++ 3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image       
+[[paper](http://arxiv.org/abs/2112.00169)]  [[code]()]
 
 
 
