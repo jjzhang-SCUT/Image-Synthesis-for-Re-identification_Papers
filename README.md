@@ -16,6 +16,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
   <details>
     <summary>Notes</summary>
   </details>
+
++ [3D] FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
  
 + Block-NeRF: Scalable Large Scene Neural View Synthesis       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)]  [[code]()]
@@ -161,9 +164,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
  
 + [3D] Topologically-Aware Deformation Fields for Single-View 3D Reconstruction  
 [[paper](http://arxiv.org/abs/2205.06267)]  [[code]()]
- 
-+ [3D] FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
  
 + [3D] FvOR: Robust Joint Shape and Pose Optimization for Few-View Object Reconstruction        
 [[paper](http://arxiv.org/abs/2205.07763)]  [[code]()]
