@@ -3,9 +3,18 @@ Papers: Data Generation For ReID
 
 Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
-<!-- Comment -->
-<!-- -   [arXiv 2022](#arXiv-2022)  -->
-<!--     -   [Next](#next)  -->
+
+ -   [View Synthesis](#View-Synthesis)  
+     -   [CVPR 2022](#CVPR-2022)   
+     -   [CVPR 2022](#CVPR-2022)   
+     -   [CVPR 2022](#CVPR-2022)   
+     -   [CVPR 2022](#CVPR-2022)   
+     -   [CVPR 2022](#CVPR-2022)   
+     -   [CVPR 2022](#CVPR-2022)  
+ -   [MVC](#MVC)  
+     -   [CVPR 2022](#CVPR-2022) 
+ -   [Style Synthesis](#Style-Synthesis)   
+     -   [CVPR 2022](#CVPR-2022) 
 
 ## View Synthesis
 
@@ -210,21 +219,11 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + 3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image       
 [[paper](http://arxiv.org/abs/2112.00169)]  [[code]()]
 
-+ Paper     
-[[paper]()]  [[code]()]
+#### CVPR 2020 
++ Stylization-Based Architecture for Fast Deep Exemplar Colorization       
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]  [[code]()]
 
-+ Paper     
-[[paper]()]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
-
+<!-- Comment -->
 
 #### arXiv 2022 
 
