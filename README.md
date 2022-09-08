@@ -217,12 +217,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 <!-- Comment -->
 
-#### arXiv 2022 
+#### test
 
 + Paper     
 [[paper]()]  [[code]()]
   <details>
-    <summary>Notes</summary>
+    <summary>test_note</summary>
     <img src="img/VAMI.png" alt="referformer" align=center />  
     - Key points:
          - Important.
