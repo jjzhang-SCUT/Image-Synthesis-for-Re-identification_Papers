@@ -9,7 +9,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 ## CVPR 2022  
 
-+ Model: Multi-View Mesh Reconstruction With Neural Deferred Shading (arXiv 2022-07)  
++ Multi-View Mesh Reconstruction With Neural Deferred Shading (arXiv 2022-07)  
   Markus Worchel, Rodrigo Diaz, Weiwen Hu, Oliver Schreer, Ingo Feldmann, Peter Eisert;
  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.pdf)]  [[code](https://github.com)]
 
