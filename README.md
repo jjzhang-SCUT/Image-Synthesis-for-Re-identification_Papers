@@ -10,19 +10,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 ## CVPR 2022  
 
 + Multi-View Mesh Reconstruction With Neural Deferred Shading (arXiv 2022-07)    
-Markus Worchel, Rodrigo Diaz, Weiwen Hu, Oliver Schreer, Ingo Feldmann, Peter Eisert   
+  Markus Worchel, Rodrigo Diaz, Weiwen Hu, Oliver Schreer, Ingo Feldmann, Peter Eisert   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.pdf)]  [[code](https://github.com)]
  
 + Topologically-Aware Deformation Fields for Single-View 3D Reconstruction  
-Shivam Duggal, Deepak Pathak   
+  Shivam Duggal, Deepak Pathak   
 [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
  
++ Title   
+  Author      
+[[paper]()]  [[code]()]
 
 ## ICCV 2022  
-
-+ Tracking the Untrackable: Learning to Track Multiple Cues With Long-Term Dependencies.  
-Amir Sadeghian, Alexandre Alahi, Silvio Savarese  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Sadeghian_Tracking_the_Untrackable_ICCV_2017_paper.pdf)] [[code]()] 
 
 
 + Model: Title (arXiv 2022-07)  
