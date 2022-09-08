@@ -7,7 +7,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 <!-- -   [arXiv 2022](#arXiv-2022)  -->
 <!--     -   [Next](#next)  -->
 
-## Multi-view
+## View Synthesis
 
 ### CVPR 2022  
 
@@ -110,29 +110,88 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + [vedio] Deep 3D Mask Volume for View Synthesis of Dynamic Scenes     
 [[paper](http://arxiv.org/abs/2108.13408)]  [[code]()]
  
-+ Title     
-[[paper]()]  [[code]()]
- 
-+ Title     
-[[paper]()]  [[code]()]
- 
-+ Title     
-[[paper]()]  [[code]()]
- 
-+ Title     
-[[paper]()]  [[code]()]
+### CVPR 2021  
 
-### ECCV 2022  
-
-+ Model: Title (arXiv 2022-07)  
-  Author1, Author2, ...
-  [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
++ Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
+[[paper](http://arxiv.org/abs/2104.06935)]  [[code]()]
+ 
++ Stable View Synthesis     
+[[paper](http://arxiv.org/abs/2011.07233)]  [[code]()]
+ 
++ Layout-Guided Novel View Synthesis From a Single Indoor Panorama      
+[[paper](http://arxiv.org/abs/2103.17022)]  [[code]()]
+ 
++ Learning Neural Representation of Camera Pose with Matrix Representation of Pose Shift via View Synthesis       
+[[paper]()]  [[code]()]
   
++ ID-Unet: Iterative Soft and Hard Deformation for View Synthesis       
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_ID-Unet_Iterative_Soft_and_Hard_Deformation_for_View_Synthesis_CVPR_2021_paper.pdf)]  [[code]()]
+  
++ NeX: Real-Time View Synthesis With Neural Basis Expansion     
+[[paper](http://arxiv.org/abs/2103.05606)]  [[code]()]
+  
++ Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans       
+[[paper](http://arxiv.org/abs/2012.15838)]  [[code]()]
+  
++ Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes     
+[[paper](http://arxiv.org/abs/2011.13084)]  [[code]()]
+  
++ NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis     
+[[paper](http://arxiv.org/abs/2012.03927)]  [[code]()]
+  
++ Self-Supervised Visibility Learning for Novel View Synthesis       
+[[paper](http://arxiv.org/abs/2103.15407)]  [[code]()]
+  
+### CVPR 2020   
+ 
++ SynSin: End-to-End View Synthesis From a Single Image       
+[[paper]()]  [[code](http://arxiv.org/abs/1912.08804)]
+  
++ Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera   
+[[paper](http://arxiv.org/abs/2004.01294)]  [[code]()]
+  
++ Single-View View Synthesis With Multiplane Images       
+[[paper](http://arxiv.org/abs/2004.11364)]  [[code]()]
+
+### ICCV 2019   
+ 
++ Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)]  [[code]()]
+  
++ Extreme View Synthesis       
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Extreme_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
+  
++ View Independent Generative Adversarial Network for Novel View Synthesis     
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
+
++ Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation       
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)]  [[code]()]
+
+### CVPR 2019
+
++ DeepView: View Synthesis With Learned Gradient Descent       
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf)]  [[code]()]
+
++ Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  [[code]()]
+
 ### arXiv 2022 
 
-+ Model: Title (arXiv 2022-07)  
-  Author1, Author2, ...
-  [[paper](https://www.baidu.com/s?wd=link)]  [[code](https://github.com)]
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
+
+
+
+
+
+
+### arXiv 2022 
+
++ Paper     
+[[paper]()]  [[code]()]
   <details>
     <summary>Notes</summary>
     <img src="img/VAMI.png" alt="referformer" align=center />  
