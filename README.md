@@ -202,12 +202,31 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
  
 ## Style Synthesis
 
+#### CVPR 2022 
+
++ StylizedNeRF: Consistent 3D Scene Stylization As Stylized NeRF via 2D-3D Mutual Learning       
+[[paper](http://arxiv.org/abs/2205.12183)]  [[code]()]
+
 + 3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image       
 [[paper](http://arxiv.org/abs/2112.00169)]  [[code]()]
 
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
 
 
-### arXiv 2022 
+#### arXiv 2022 
 
 + Paper     
 [[paper]()]  [[code]()]
