@@ -15,7 +15,64 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
  
 + Topologically-Aware Deformation Fields for Single-View 3D Reconstruction  
   Shivam Duggal, Deepak Pathak   
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duggal_Topologically-Aware_Deformation_Fields_for_Single-View_3D_Reconstruction_CVPR_2022_paper.pdf)]  [[code]()]
+[[paper](http://arxiv.org/abs/2205.06267)]  [[code]()]
+ 
++ Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis     
+  Xuanmeng Zhang, Zhedong Zheng, Daiheng Gao, Bang Zhang, Pan Pan, Yi Yang       
+[[paper](http://arxiv.org/abs/2204.06307)]  [[code]()]
+ 
++ FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
+  Ang Cao, Chris Rockwell, Justin Johnson    
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
++ Title   
+  Author      
+[[paper]()]  [[code]()]
+ 
+ 
+ 
+ 
+ 
  
 + Title   
   Author      
