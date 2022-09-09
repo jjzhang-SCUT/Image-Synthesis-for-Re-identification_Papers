@@ -186,6 +186,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + Stylization-Based Architecture for Fast Deep Exemplar Colorization       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]  [[code]()]
 
+#### WACV 2020
++ (Human) Semantic Consistency and Identity Mapping Multi-Component Generative Adversarial Network for Person Re-Identification  
+[[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Khatun_Semantic_Consistency_and_Identity_Mapping_Multi-Component_Generative_Adversarial_Network_for_WACV_2020_paper.pdf)]  [[code]()]
+
 #### CVPR 2019 
 + (Human appearance) Joint Discriminative and Generative Learning for Person Re-Identification  
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]  [[code]()]
