@@ -18,7 +18,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
 
-+ (Real-time) FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
++ (Scene) FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
  
 + (Block, Buildings) Block-NeRF: Scalable Large Scene Neural View Synthesis       
@@ -30,7 +30,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Scene) NeurMiPs: Neural Mixture of Planar Experts for View Synthesis      
 [[paper](http://arxiv.org/abs/2204.13696)]  [[code]()]
  
-+ (Improve rendering) Boosting View Synthesis With Residual Transfer  
++ (Scene) Boosting View Synthesis With Residual Transfer  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)]  [[code]()]
 
 + (Sprase input)RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
@@ -54,7 +54,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 #### ICCV 2021   
  
-+ (Scene) Neural Radiance Flow for 4D View Synthesis and Video Processing     
++ (Vedio) Neural Radiance Flow for 4D View Synthesis and Video Processing     
 [[paper](http://arxiv.org/abs/2012.09790)]  [[code]()]
  
 + (Scene) Geometry-Free View Synthesis: Transformers and No 3D Priors        
@@ -63,16 +63,16 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Monocular: Vedio moving views) Dynamic View Synthesis From Dynamic Monocular Video       
 [[paper](http://arxiv.org/abs/2105.06468)]  [[code]()]
  
-+ (Sprase) Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis       
++ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis       
 [[paper](http://arxiv.org/abs/2104.00677)]  [[code]()]
  
-+ (Real-time) Baking Neural Radiance Fields for Real-Time View Synthesis       
++ Baking Neural Radiance Fields for Real-Time View Synthesis       
 [[paper](http://arxiv.org/abs/2103.14645)]  [[code]()]
  
-+ Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video     
++ (Vedio) Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video     
 [[paper](http://arxiv.org/abs/2012.12247)]  [[code]()]
  
-+ (MPI) MINE: Towards Continuous Depth MPI With NeRF for Novel View Synthesis      
++ (Scene, MPI) MINE: Towards Continuous Depth MPI With NeRF for Novel View Synthesis      
 [[paper](http://arxiv.org/abs/2103.14910)]  [[code]()]
  
 + Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis From a Single Image       
@@ -83,13 +83,13 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
  
 #### CVPR 2021  
 
-+ (Sprase) Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
++ Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
 [[paper](http://arxiv.org/abs/2104.06935)]  [[code]()]
  
 + Stable View Synthesis     
 [[paper](http://arxiv.org/abs/2011.07233)]  [[code]()]
  
-+ (Panorama input) Layout-Guided Novel View Synthesis From a Single Indoor Panorama      
++ (Scene, Panorama input) Layout-Guided Novel View Synthesis From a Single Indoor Panorama      
 [[paper](http://arxiv.org/abs/2103.17022)]  [[code]()]
  
 + Learning Neural Representation of Camera Pose with Matrix Representation of Pose Shift via View Synthesis       
@@ -101,7 +101,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
   
-+ (Improve render) NeX: Real-Time View Synthesis With Neural Basis Expansion     
++ (Scene) NeX: Real-Time View Synthesis With Neural Basis Expansion     
 [[paper](http://arxiv.org/abs/2103.05606)]  [[code]()]
   
 + (Human body) Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans       
@@ -113,18 +113,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Novel lighting) NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis     
 [[paper](http://arxiv.org/abs/2012.03927)]  [[code]()]
   
-+ Self-Supervised Visibility Learning for Novel View Synthesis       
++ (Scene) Self-Supervised Visibility Learning for Novel View Synthesis       
 [[paper](http://arxiv.org/abs/2103.15407)]  [[code]()]
   
 #### CVPR 2020   
  
-+ SynSin: End-to-End View Synthesis From a Single Image       
++ (Scene) SynSin: End-to-End View Synthesis From a Single Image       
 [[paper](http://arxiv.org/abs/1912.08804)]  [[code](http://arxiv.org/abs/1912.08804)]
   
 + (Monocular) Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera   
 [[paper](http://arxiv.org/abs/2004.01294)]  [[code]()]
   
-+ (MPI) Single-View View Synthesis With Multiplane Images       
++ (Scene, MPI) Single-View View Synthesis With Multiplane Images       
 [[paper](http://arxiv.org/abs/2004.11364)]  [[code]()]
 
 #### ICCV 2019   
@@ -137,6 +137,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
   
 + View Independent Generative Adversarial Network for Novel View Synthesis     
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
+  <details>
+    <summary>Notes</summary>
+  </details>
 
 + Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation       
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)]  [[code]()]
@@ -146,7 +149,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Scene) DeepView: View Synthesis With Learned Gradient Descent       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf)]  [[code]()]
 
-+ Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
++ (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  [[code]()]
 
 #### arXiv 2022 
