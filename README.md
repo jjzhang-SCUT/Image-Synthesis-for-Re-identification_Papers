@@ -5,7 +5,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
  -   [View Synthesis](#View-Synthesis)  
  -   [Style Synthesis](#Style-Synthesis)  
- -   [Multi-View Stereo(MVS)](#MVS)    
+ -   [Multi-View Stereo (MVS)](#MVS)    
 <!--     -   [CVPR 2022](#CVPR-2022) -->
 
 ## View Synthesis
