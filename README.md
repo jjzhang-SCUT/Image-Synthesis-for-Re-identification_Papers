@@ -4,13 +4,19 @@ Papers: Data Generation For ReID
 Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
  -   [View Synthesis](#View-Synthesis)   
- -   [Multi-View Stereo(MVC)](#MVC)  
+ -   [Multi-View Stereo(MVS)](#MVS)  
  -   [Style Synthesis](#Style-Synthesis)   
 <!--     -   [CVPR 2022](#CVPR-2022) -->
 
 ## View Synthesis
 
 #### CVPR 2022  
+
++ (Human) Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification  
+[[paper](http://arxiv.org/abs/2203.15210)]  [[code]()]
+  <details>
+    <summary>Notes</summary>
+  </details>
 
 + Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis    
 [[paper](http://arxiv.org/abs/2204.06307)]  [[code]()]
@@ -33,7 +39,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Scene) Boosting View Synthesis With Residual Transfer  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)]  [[code]()]
 
-+ (Sprase input)RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
++ (Sprase input) RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
 [[paper](http://arxiv.org/abs/2112.00724)]  [[code]()]
 
 + AutoRF: Learning 3D Object Radiance Fields From Single View Observations       
@@ -53,6 +59,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
  
 
 #### ICCV 2021   
+
++ (Human) Attack-Guided Perceptual Data Generation for Real-World Re-Identification  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]  [[code]()]
+ 
  
 + (Vedio) Neural Radiance Flow for 4D View Synthesis and Video Processing     
 [[paper](http://arxiv.org/abs/2012.09790)]  [[code]()]
@@ -82,6 +92,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 [[paper](http://arxiv.org/abs/2108.13408)]  [[code]()]
  
 #### CVPR 2021  
+
++ Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
+[[paper](http://arxiv.org/abs/2012.09071)]  [[code]()]
 
 + Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
 [[paper](http://arxiv.org/abs/2104.06935)]  [[code]()]
@@ -158,17 +171,17 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 [[paper]()]  [[code]()]
 
 
-## MVC
+## MVS
 
 #### CVPR 2022  
 
-+ [3D] Multi-View Mesh Reconstruction With Neural Deferred Shading   
++ Multi-View Mesh Reconstruction With Neural Deferred Shading   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Worchel_Multi-View_Mesh_Reconstruction_With_Neural_Deferred_Shading_CVPR_2022_paper.pdf)]  [[code]()]
  
-+ [3D] Topologically-Aware Deformation Fields for Single-View 3D Reconstruction  
++ Topologically-Aware Deformation Fields for Single-View 3D Reconstruction  
 [[paper](http://arxiv.org/abs/2205.06267)]  [[code]()]
  
-+ [3D] FvOR: Robust Joint Shape and Pose Optimization for Few-View Object Reconstruction        
++ FvOR: Robust Joint Shape and Pose Optimization for Few-View Object Reconstruction        
 [[paper](http://arxiv.org/abs/2205.07763)]  [[code]()]
  
 + Efficient Multi-View Stereo by Iterative Dynamic Cost Volume       
@@ -182,7 +195,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + AA-RMVSNet: Adaptive Aggregation Recurrent Multi-View Stereo Network       
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf)]  [[code]()]
  
-+ [MVS] A Confidence-Based Iterative Solver of Depths and Surface Normals for Deep Multi-View Stereo   
++ A Confidence-Based Iterative Solver of Depths and Surface Normals for Deep Multi-View Stereo   
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_A_Confidence-Based_Iterative_Solver_of_Depths_and_Surface_Normals_for_ICCV_2021_paper.pdf)]  [[code]()]
  
 + Multi-View 3D Reconstruction With Transformers      
@@ -200,9 +213,16 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction   
 [[paper](http://arxiv.org/abs/2104.10078)]  [[code]()]
  
-+ [Face MVS] Topologically Consistent Multi-View Face Inference Using Volumetric Sampling     
++ Topologically Consistent Multi-View Face Inference Using Volumetric Sampling     
 [[paper](http://arxiv.org/abs/2110.02948)]  [[code]()]
+
+
+#### CVPR 2019 
++ (Human) Re-Identification Supervised Texture Generation  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]  [[code]()]
  
+
+
 ## Style Synthesis
 
 #### CVPR 2022 
@@ -216,6 +236,16 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 #### CVPR 2020 
 + Stylization-Based Architecture for Fast Deep Exemplar Colorization       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]  [[code]()]
+
+#### CVPR 2019 
++ (Human appearance)Joint Discriminative and Generative Learning for Person Re-Identification  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
+
++ Paper     
+[[paper]()]  [[code]()]
 
 <!-- Comment -->
 
