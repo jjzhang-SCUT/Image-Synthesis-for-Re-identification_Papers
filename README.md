@@ -60,7 +60,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Scene) Geometry-Free View Synthesis: Transformers and No 3D Priors        
 [[paper](http://arxiv.org/abs/2104.07652)]  [[code]()]
  
-+ (Vedio moving views) Dynamic View Synthesis From Dynamic Monocular Video       
++ (Monocular: Vedio moving views) Dynamic View Synthesis From Dynamic Monocular Video       
 [[paper](http://arxiv.org/abs/2105.06468)]  [[code]()]
  
 + (Sprase) Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis       
@@ -121,10 +121,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + SynSin: End-to-End View Synthesis From a Single Image       
 [[paper](http://arxiv.org/abs/1912.08804)]  [[code](http://arxiv.org/abs/1912.08804)]
   
-+ Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera   
++ (Monocular) Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera   
 [[paper](http://arxiv.org/abs/2004.01294)]  [[code]()]
   
-+ Single-View View Synthesis With Multiplane Images       
++ (MPI) Single-View View Synthesis With Multiplane Images       
 [[paper](http://arxiv.org/abs/2004.11364)]  [[code]()]
 
 #### ICCV 2019   
@@ -132,7 +132,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Human: Pose, View, Appearance) Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)]  [[code]()]
   
-+ Extreme View Synthesis       
++ (Scene) Extreme View Synthesis       
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Extreme_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
   
 + View Independent Generative Adversarial Network for Novel View Synthesis     
@@ -143,7 +143,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 #### CVPR 2019
 
-+ DeepView: View Synthesis With Learned Gradient Descent       
++ (Scene) DeepView: View Synthesis With Learned Gradient Descent       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf)]  [[code]()]
 
 + Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
@@ -153,10 +153,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 + Paper     
 [[paper]()]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
-
 
 
 ## MVC
