@@ -18,19 +18,19 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
 
-+ [3D] FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
++ FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
  
-+ Block-NeRF: Scalable Large Scene Neural View Synthesis       
++ [Block, Buildings] Block-NeRF: Scalable Large Scene Neural View Synthesis       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)]  [[code]()]
 
-+ Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations  
++ [Scene] Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations  
 [[paper](http://arxiv.org/abs/2111.13152)]  [[code]()]
  
-+ NeurMiPs: Neural Mixture of Planar Experts for View Synthesis      
++ [Scene] NeurMiPs: Neural Mixture of Planar Experts for View Synthesis      
 [[paper](http://arxiv.org/abs/2204.13696)]  [[code]()]
  
-+ Boosting View Synthesis With Residual Transfer  
++ [Improve Rendering] Boosting View Synthesis With Residual Transfer  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)]  [[code]()]
 
 + RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
@@ -42,13 +42,13 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
  
-+ [Spherical] SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
++ [Spherical input] SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)]  [[code]()]
  
-+ JIFF: Jointly-Aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction   
++ [Human, Face render]JIFF: Jointly-Aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction   
 [[paper](http://arxiv.org/abs/2204.10549)]  [[code]()]
  
-+ NeRF in the Dark: High Dynamic Range View Synthesis From Noisy Raw Images       
++ [HDR NERF] NeRF in the Dark: High Dynamic Range View Synthesis From Noisy Raw Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mildenhall_NeRF_in_the_Dark_High_Dynamic_Range_View_Synthesis_From_CVPR_2022_paper.pdf)]  [[code]()]
  
 
