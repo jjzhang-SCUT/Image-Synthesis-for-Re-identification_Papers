@@ -18,22 +18,22 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
 
-+ FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
++ (Real-time) FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  [[code]()]
  
-+ [Block, Buildings] Block-NeRF: Scalable Large Scene Neural View Synthesis       
++ (Block, Buildings) Block-NeRF: Scalable Large Scene Neural View Synthesis       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)]  [[code]()]
 
-+ [Scene] Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations  
++ (Scene) Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations  
 [[paper](http://arxiv.org/abs/2111.13152)]  [[code]()]
  
-+ [Scene] NeurMiPs: Neural Mixture of Planar Experts for View Synthesis      
++ (Scene) NeurMiPs: Neural Mixture of Planar Experts for View Synthesis      
 [[paper](http://arxiv.org/abs/2204.13696)]  [[code]()]
  
-+ [Improve Rendering] Boosting View Synthesis With Residual Transfer  
++ (Improve rendering) Boosting View Synthesis With Residual Transfer  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)]  [[code]()]
 
-+ RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
++ (Sprase input)RegNeRF: Regularizing Neural Radiance Fields for View Synthesis From Sparse Inputs       
 [[paper](http://arxiv.org/abs/2112.00724)]  [[code]()]
 
 + AutoRF: Learning 3D Object Radiance Fields From Single View Observations       
@@ -42,72 +42,75 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
     <summary>Notes</summary>
   </details>
  
-+ [Spherical input] SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
++ (Spherical input) SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)]  [[code]()]
  
-+ [Human, Face render]JIFF: Jointly-Aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction   
++ (Human, Face render) JIFF: Jointly-Aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction   
 [[paper](http://arxiv.org/abs/2204.10549)]  [[code]()]
  
-+ [HDR NERF] NeRF in the Dark: High Dynamic Range View Synthesis From Noisy Raw Images       
++ (HDR NERF) NeRF in the Dark: High Dynamic Range View Synthesis From Noisy Raw Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mildenhall_NeRF_in_the_Dark_High_Dynamic_Range_View_Synthesis_From_CVPR_2022_paper.pdf)]  [[code]()]
  
 
 #### ICCV 2021   
  
-+ Neural Radiance Flow for 4D View Synthesis and Video Processing     
++ (Scene) Neural Radiance Flow for 4D View Synthesis and Video Processing     
 [[paper](http://arxiv.org/abs/2012.09790)]  [[code]()]
  
-+ Geometry-Free View Synthesis: Transformers and No 3D Priors        
++ (Scene) Geometry-Free View Synthesis: Transformers and No 3D Priors        
 [[paper](http://arxiv.org/abs/2104.07652)]  [[code]()]
  
-+ Dynamic View Synthesis From Dynamic Monocular Video       
++ (Vedio moving views) Dynamic View Synthesis From Dynamic Monocular Video       
 [[paper](http://arxiv.org/abs/2105.06468)]  [[code]()]
  
-+ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis       
++ (Sprase) Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis       
 [[paper](http://arxiv.org/abs/2104.00677)]  [[code]()]
  
-+ [Render] Baking Neural Radiance Fields for Real-Time View Synthesis       
++ (Real-time) Baking Neural Radiance Fields for Real-Time View Synthesis       
 [[paper](http://arxiv.org/abs/2103.14645)]  [[code]()]
  
 + Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video     
 [[paper](http://arxiv.org/abs/2012.12247)]  [[code]()]
  
-+ MINE: Towards Continuous Depth MPI With NeRF for Novel View Synthesis      
++ (MPI) MINE: Towards Continuous Depth MPI With NeRF for Novel View Synthesis      
 [[paper](http://arxiv.org/abs/2103.14910)]  [[code]()]
  
 + Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis From a Single Image       
 [[paper](http://arxiv.org/abs/2012.09854)]  [[code]()]
  
-+ [vedio] Deep 3D Mask Volume for View Synthesis of Dynamic Scenes     
++ (Vedio) Deep 3D Mask Volume for View Synthesis of Dynamic Scenes     
 [[paper](http://arxiv.org/abs/2108.13408)]  [[code]()]
  
 #### CVPR 2021  
 
-+ Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
++ (Sprase) Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
 [[paper](http://arxiv.org/abs/2104.06935)]  [[code]()]
  
 + Stable View Synthesis     
 [[paper](http://arxiv.org/abs/2011.07233)]  [[code]()]
  
-+ Layout-Guided Novel View Synthesis From a Single Indoor Panorama      
++ (Panorama input) Layout-Guided Novel View Synthesis From a Single Indoor Panorama      
 [[paper](http://arxiv.org/abs/2103.17022)]  [[code]()]
  
 + Learning Neural Representation of Camera Pose with Matrix Representation of Pose Shift via View Synthesis       
-[[paper]()]  [[code]()]
+[[paper](http://arxiv.org/abs/2104.01508)]  [[code]()]
   
 + ID-Unet: Iterative Soft and Hard Deformation for View Synthesis       
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_ID-Unet_Iterative_Soft_and_Hard_Deformation_for_View_Synthesis_CVPR_2021_paper.pdf)]  [[code]()]
+  <details>
+    <summary>Notes</summary>
+  </details>
   
-+ NeX: Real-Time View Synthesis With Neural Basis Expansion     
++ (Improve render) NeX: Real-Time View Synthesis With Neural Basis Expansion     
 [[paper](http://arxiv.org/abs/2103.05606)]  [[code]()]
   
-+ Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans       
++ (Human body) Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans       
 [[paper](http://arxiv.org/abs/2012.15838)]  [[code]()]
   
-+ Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes     
++ (Vedio) Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes     
 [[paper](http://arxiv.org/abs/2011.13084)]  [[code]()]
   
-+ NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis     
++ (Novel lighting) NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis     
 [[paper](http://arxiv.org/abs/2012.03927)]  [[code]()]
   
 + Self-Supervised Visibility Learning for Novel View Synthesis       
@@ -126,7 +129,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
 #### ICCV 2019   
  
-+ Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
++ (Human: Pose, View, Appearance) Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)]  [[code]()]
   
 + Extreme View Synthesis       
