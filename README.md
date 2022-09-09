@@ -165,10 +165,35 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 + (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  [[code]()]
 
-#### arXiv 2022 
 
-+ Paper     
-[[paper]()]  [[code]()]
+
+
+
+
+
+
+## Style Synthesis
+
+#### CVPR 2022 
+
++ StylizedNeRF: Consistent 3D Scene Stylization As Stylized NeRF via 2D-3D Mutual Learning       
+[[paper](http://arxiv.org/abs/2205.12183)]  [[code]()]
+
++ 3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image       
+[[paper](http://arxiv.org/abs/2112.00169)]  [[code]()]
+
+#### CVPR 2020 
++ Stylization-Based Architecture for Fast Deep Exemplar Colorization       
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]  [[code]()]
+
+#### CVPR 2019 
++ (Human appearance) Joint Discriminative and Generative Learning for Person Re-Identification  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]  [[code]()]
+
+
+
+
+
 
 
 ## MVS
@@ -222,30 +247,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]  [[code]()]
  
 
-
-## Style Synthesis
-
-#### CVPR 2022 
-
-+ StylizedNeRF: Consistent 3D Scene Stylization As Stylized NeRF via 2D-3D Mutual Learning       
-[[paper](http://arxiv.org/abs/2205.12183)]  [[code]()]
-
-+ 3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image       
-[[paper](http://arxiv.org/abs/2112.00169)]  [[code]()]
-
-#### CVPR 2020 
-+ Stylization-Based Architecture for Fast Deep Exemplar Colorization       
-[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]  [[code]()]
-
-#### CVPR 2019 
-+ (Human appearance)Joint Discriminative and Generative Learning for Person Re-Identification  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
-
-+ Paper     
-[[paper]()]  [[code]()]
 
 <!-- Comment -->
 
