@@ -1,7 +1,7 @@
 Papers: Data Generation For ReID
 ===
 
-Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
+Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
  -   [View Synthesis](#View-Synthesis)  
  -   [Style Synthesis](#Style-Synthesis)  
