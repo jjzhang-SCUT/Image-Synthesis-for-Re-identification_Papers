@@ -3,9 +3,9 @@ Papers: Data Generation For ReID
 
 Included Conferences: CVPR, ICCV, ECCV, NeurIPS, etc.
 
- -   [View Synthesis](#View-Synthesis)   
- -   [Multi-View Stereo(MVS)](#MVS)  
- -   [Style Synthesis](#Style-Synthesis)   
+ -   [View Synthesis](#View-Synthesis)  
+ -   [Style Synthesis](#Style-Synthesis)  
+ -   [Multi-View Stereo(MVS)](#MVS)    
 <!--     -   [CVPR 2022](#CVPR-2022) -->
 
 ## View Synthesis
