@@ -258,9 +258,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + Paper     
 [[paper]()]  [[code]()]
   <details>
-    <summary>test_note</summary>
-    <img src="img/VAMI.png" alt="referformer" align=center />     
-    - Key points:  
-         - Important.   
-         - SOTA.   
-  </details>
+    <summary>Notes</summary>
+     <img src="img/VAMI.png" alt="referformer" align=center />  
+
+    - Key points:
+         - 1.
+         - 2.
+    </details>
