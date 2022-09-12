@@ -145,7 +145,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + View Independent Generative Adversarial Network for Novel View Synthesis     
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
   <details>
-    <summary>Notes</summary>
+    <summary>test_note</summary>
+    <img src="img/VI-GAN.png" alt="referformer" align=center />  
+    - Key points:
+         - Four parts of LOSS: (1)View-independent(equal id of input view and generating view after encoding); (2)Recontruction(Minimize the distance between generating view and ground truth(directly and using VGG16), input view and reconstructing input view by DECODER, input view and re-generating input view through generating view.); (3)GAN loss(improve realism); (4)Pose prediction loss(second discriminator predicts target views(P_B) when inputting GT and generating images).
+         - Use an ENCODER for the disentangling task(extracting view-independent intrinsic features) and a DECODER for the rendering task(generating target view).
+
   </details>
 
 + Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation       
