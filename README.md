@@ -12,12 +12,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 #### CVPR 2022  
 
-+ (Human) Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification  
-[[paper](http://arxiv.org/abs/2203.15210)]  [[code]()]
-  <details>
-    <summary>Notes</summary>
-  </details>
-
 + Multi-View Consistent Generative Adversarial Networks for 3D-Aware Image Synthesis    
 [[paper](http://arxiv.org/abs/2204.06307)]  [[code]()]
   <details>
