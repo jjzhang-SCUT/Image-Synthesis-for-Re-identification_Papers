@@ -262,6 +262,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
      <img src="img/VAMI.png" alt="referformer" align=center />  
 
     - Key points:
-         - 1.
-         - 2.
+         - point1.
+         - point2.
     </details>
