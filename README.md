@@ -1,4 +1,4 @@
-Papers: Data Generation For ReID
+Papers: Image Synthesis for Re-identification 
 ===
 
 Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
