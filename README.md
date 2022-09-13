@@ -111,6 +111,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_ID-Unet_Iterative_Soft_and_Hard_Deformation_for_View_Synthesis_CVPR_2021_paper.pdf)]  [[code](https://github.com/MingyuY/Iterative-view-synthesis)]
   <details>
     <summary>Notes</summary>
+    <img src="img/ID-Unet_framework.png" alt="ID-Unet_framework" align=center />    
+    
+    - Key points:
   </details>
   
 + (Scene) NeX: Real-Time View Synthesis With Neural Basis Expansion     
