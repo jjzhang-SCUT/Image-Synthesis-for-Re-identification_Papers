@@ -146,7 +146,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]  [[code]()]
   <details>
     <summary>Note</summary>
-    <img src="img/VI-GAN.png" alt="referformer" align=center />    
+    <img src="img/VI-GAN.png" alt="VI-GAN" align=center />    
  
     - Key points:
          - Four parts of LOSS: 
