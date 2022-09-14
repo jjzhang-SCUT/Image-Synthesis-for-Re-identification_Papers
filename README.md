@@ -41,11 +41,8 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
   <details>
     <summary>Note</summary>
     <img src="img/AutoRF.png" alt="AutoRF" align=center />    
- 
-    - Key points:
-         - point1: 
-         - point2.
-    </details> 
+    
+  </details> 
  
 + (Spherical input) SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)]  
@@ -111,9 +108,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_ID-Unet_Iterative_Soft_and_Hard_Deformation_for_View_Synthesis_CVPR_2021_paper.pdf)]  [[code](https://github.com/MingyuY/Iterative-view-synthesis)]
   <details>
     <summary>Notes</summary>
-    <img src="img/ID-Unet_framework.png" alt="ID-Unet_framework" align=center />    
-    
-    - Key points:
+    <img src="img/ID-Unet_framework.png" alt="ID-Unet_framework" align=center />  
   </details>
   
 + (Scene) NeX: Real-Time View Synthesis With Neural Basis Expansion     
