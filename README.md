@@ -138,6 +138,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + (Scene, MPI) Single-View View Synthesis With Multiplane Images       
 [[paper](http://arxiv.org/abs/2004.11364)]  
 
+#### NeurIPS 2020
++ GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis         
+[[paper](https://arxiv.org/abs/2007.02442)][[code](https://github.com/autonomousvision/graf)]  
+   <details>
+    <summary>Note</summary>
+    <img src="" alt="GRAF" align=center />    
+ 
+    - Key points:
+         - 
+    </details> 
+
+
 #### ICCV 2019   
  
 + (Human: Pose, View, Appearance) Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
