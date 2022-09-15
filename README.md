@@ -16,6 +16,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](http://arxiv.org/abs/2204.06307)]  [[code](https://github.com/Xuanmeng-Zhang/MVCGAN)]
   <details>
     <summary>Notes</summary>
+    <img src="img/MVC-GAN.png" alt="MVC-GAN_framework" align=center />  
   </details>
 
 + (Scene) FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
