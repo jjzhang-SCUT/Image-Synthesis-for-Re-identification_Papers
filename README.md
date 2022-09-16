@@ -291,8 +291,4 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
     - Key points:
          - point1.
          - point2.
-         - 1.
-    - Key points:
-         1. abc
-         2. asd
     </details>
