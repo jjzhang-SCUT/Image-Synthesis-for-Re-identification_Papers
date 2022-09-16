@@ -131,7 +131,8 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](http://arxiv.org/abs/2103.15407)]  
 
 #### ECCV2020
-+ [BEST PAPER] Representing Scenes as Neural Radiance Fields for View Synthesis  
+
++ [BEST PAPER——NERF] Representing Scenes as Neural Radiance Fields for View Synthesis  
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/bmild/nerf)]
 
 #### CVPR 2020   
