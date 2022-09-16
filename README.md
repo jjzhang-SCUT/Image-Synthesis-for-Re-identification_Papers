@@ -39,11 +39,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + AutoRF: Learning 3D Object Radiance Fields From Single View Observations       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Muller_AutoRF_Learning_3D_Object_Radiance_Fields_From_Single_View_Observations_CVPR_2022_paper.pdf)]   
-  <details>
-    <summary>Note</summary>
-    <img src="img/AutoRF.png" alt="AutoRF" align=center />    
-    
-  </details> 
  
 + (Spherical input) SOMSI: Spherical Novel View Synthesis With Soft Occlusion Multi-Sphere Images       
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)]  
