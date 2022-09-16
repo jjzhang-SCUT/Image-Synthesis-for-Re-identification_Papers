@@ -126,7 +126,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
   
 + (Scene) Self-Supervised Visibility Learning for Novel View Synthesis       
 [[paper](http://arxiv.org/abs/2103.15407)]  
-  
+
+#### ECCV2020
++ Representing Scenes as Neural Radiance Fields for View Synthesis  
+[[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/bmild/nerf)]
+
+
 #### CVPR 2020   
  
 + (Scene) SynSin: End-to-End View Synthesis From a Single Image       
@@ -184,7 +189,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  
-
 
 
 
