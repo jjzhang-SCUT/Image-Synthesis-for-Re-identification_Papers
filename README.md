@@ -90,6 +90,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
  
 #### CVPR 2021  
 
++ [BEST PAPER]GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields  
+[[paper](https://arxiv.org/abs/2011.12100)][[code](https://github.com/autonomousvision/giraffe)]
+
 + Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
 [[paper](http://arxiv.org/abs/2012.09071)]  
 
@@ -128,9 +131,8 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](http://arxiv.org/abs/2103.15407)]  
 
 #### ECCV2020
-+ Representing Scenes as Neural Radiance Fields for View Synthesis  
++ [BEST PAPER] Representing Scenes as Neural Radiance Fields for View Synthesis  
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/bmild/nerf)]
-
 
 #### CVPR 2020   
  
