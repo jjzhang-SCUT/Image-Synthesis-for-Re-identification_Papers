@@ -130,6 +130,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + [BEST PAPER——NERF] Representing Scenes as Neural Radiance Fields for View Synthesis  
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/yenchenlin/nerf-pytorch)]
 
++ Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder  
+[[paper](https://arxiv.org/abs/2007.10618)]
+
 #### CVPR 2020   
  
 + (Scene) SynSin: End-to-End View Synthesis From a Single Image       
@@ -188,9 +191,13 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  
 
+#### NeurIPS 2019
++ Positional Normalization  
+[[paper](https://arxiv.org/abs/1907.04312)]  
 
-
-
+#### ECCV 2018
++ Multi-view to Novel view: Synthesizing novel views with Self-Learned Confidence  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shao-Hua_Sun_Multi-view_to_Novel_ECCV_2018_paper.pdf)]
 
 
 
