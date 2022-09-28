@@ -88,6 +88,9 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + [BEST PAPER] GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields  
 [[paper](https://arxiv.org/abs/2011.12100)][[code](https://github.com/autonomousvision/giraffe)]
 
++ pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis   
+[[paper](https://arxiv.org/abs/2012.00926)][[code](https://github.com/marcoamonteiro/pi-GAN)]
+
 + Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
 [[paper](http://arxiv.org/abs/2012.09071)]  
 
