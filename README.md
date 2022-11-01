@@ -162,7 +162,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 #### ICCV 2019   
  
 + (Human: Pose, View, Appearance) Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)]  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)][[code](https://github.com/svip-lab/impersonator)]  
   
 + (Scene) Extreme View Synthesis       
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Extreme_View_Synthesis_ICCV_2019_paper.pdf)]  
