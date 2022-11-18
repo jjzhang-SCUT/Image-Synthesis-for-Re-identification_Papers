@@ -224,7 +224,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 #### CVPR 2019 
 + (Human appearance) Joint Discriminative and Generative Learning for Person Re-Identification  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)][[code](https://github.com/layumi/Person_reID_baseline_pytorch)]  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)][[code](https://github.com/NVlabs/DG-Net)]  
 
 
 
