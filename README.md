@@ -92,7 +92,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2012.00926)][[code](https://github.com/marcoamonteiro/pi-GAN)]
 
 + Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
-[[paper](http://arxiv.org/abs/2012.09071)]  
+[[paper](http://arxiv.org/abs/2012.09071)][[code](https://github.com/chenhao2345/GCL)]  
 
 + Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
 [[paper](http://arxiv.org/abs/2104.06935)]  
