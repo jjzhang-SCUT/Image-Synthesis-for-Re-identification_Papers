@@ -17,7 +17,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
   <details>
     <summary>Notes</summary>
     <img src="img/MVC-GAN.png" alt="MVC-GAN_framework" align=center />  
-  </details>
+    - Key points:
+         - 1. Two parts of Loss: (1) GAN loss; (2) Geometry constraint loss: minimize the distance between I_pri and I_warp (Stage I), F_pri and F_warp (Stage II); 
+         - 2. Camera pose pξ: uniform/gaussian distribution; 
+         - 3. Gd: progressive style-based 2D decoder, upsamples F_mix; 
+         - 4. Dφ: progressive growing convolutional discriminator.
+  </details> 
 
 + (Scene) FWD: Real-Time Novel View Synthesis With Forward Warping and Depth     
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)]  
