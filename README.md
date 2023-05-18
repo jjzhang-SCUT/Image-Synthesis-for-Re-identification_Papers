@@ -63,8 +63,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 #### ICCV 2021   
 
 + (Human) Attack-Guided Perceptual Data Generation for Real-World Re-Identification  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]  
- 
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)][[No code]] 
+   <details>
+     <summary>Notes</summary>
+     <img src="img/GAAG.png" alt="" align=center />    
+
+     - Key points:
+          - Use 2 encoders to get disentangled features fc(content-related feature) and fd(degradation features); 
+          - Use a GCN-based atacker(A_d) to guide the data generation process with intra-batch ranking and discriminate attention. (Takes degradation feature and batch-wised affinity matrix(calculated by identity embeddings) as input);
+          - Perceptual Augmentation loss: (a)Self-spervised for degraded version of high-resolution image; (b)Reconstrution for three versions. (c)perceptual quality score: hr close to 1, lr close to -1;
+          - ReID-driven Perceptual Attack: (a)For E_id, maximize intra-class distance，minimize inter-class distance to misalign the identity features.(b)attention attack loss? (c) GAN loss for G,D; 
+          - For inference: (a)minmize max(distance between real I and one of generated samples I_gen); (b)Wasserstein distance between Eid(I) and Eid(I_gen); (c)cross-entropy loss.
+    </details> 
  
 + (Vedio) Neural Radiance Flow for 4D View Synthesis and Video Processing     
 [[paper](http://arxiv.org/abs/2012.09790)]  
@@ -106,11 +116,32 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2012.00926)][[code](https://github.com/marcoamonteiro/pi-GAN)]
   <details>
     <summary>Notes</summary>
-    <img src="img/pi-GAN.png" alt="" align=center />  
-  </details>
+    <img src="img/pi-GAN.png" alt="" align=center />    
+ 
+    - Key points:
+         - Mapping network takes noise vector z as input and outputs frequencies γi and phase shifts βi, which condition each layer of the SIREN; 
+         - Progressive dicriminator;
+         - Generator: Increase the resolution by sampling rays more densely from the same implicit representation; 
+         - GAN loss (camera pose ξ determines x and d).![image](https://github.com/jjzhang-SCUT/Image-Synthesis-for-Re-identification_Papers/assets/77285437/310e60d6-169e-440b-bc34-29f36488edf2)
+
+    </details> 
 
 + Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
 [[paper](http://arxiv.org/abs/2012.09071)][[code](https://github.com/chenhao2345/GCL)]  
+  <details>
+     <summary>Notes</summary>
+     <img src="img/GCL" alt="" align=center />    
+
+     - Key points:
+          - Combine generative module with contrastive module into joint training framework, where GAN provides data augmentation and contrastive module learns identity feature for generation; 
+          - Generator includes identity encoder Eid (forms identity feature F_id), structure encoder Estr (forms F_str), decoder G(generates images) and discriminator D; 
+          - Structure features are encoded from structure projection through HMR; 
+          - Loss:
+            - 1. Reconstruction: (x, x'_ori, x''_ori). 
+            - 2. Feature reconstruction: similar F_id of (x, x_new, x''_ori)
+            - 3. GAN loss: (x'_ori, x'_new, x''_ori) 
+            - 4. SSL loss: 3 positive paris(f, f'_new, f_pos) and K negative pairs, where f=Eid(x), f’_new=Eid(x’_new), f_pos is chosen from memory bank which has same pseudo identity with f.
+    </details> 
 
 + Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes   
 [[paper](http://arxiv.org/abs/2104.06935)]  
@@ -150,10 +181,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + [BEST PAPER——NERF] Representing Scenes as Neural Radiance Fields for View Synthesis  
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/yenchenlin/nerf-pytorch)]
-<details>
-    <summary>Note</summary>
-    <img src="img/NERF.png" alt="NERF" align=center />   
- </details> 
+   <details>
+       <summary>Note</summary>
+       <img src="img/NERF.png" alt="NERF" align=center />   
+    </details> 
 
 + Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder  
 [[paper](https://arxiv.org/abs/2007.10618)]
@@ -184,13 +215,17 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 #### ICCV 2019   
  
 + (Human: Pose, View, Appearance) Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis     
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)][[code](https://github.com/svip-lab/impersonator)]  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)][[code](https://github.com/svip-lab/impersonator)]
+   <details>
+       <summary>Note</summary>
+       <img src="img/LW-GAN.png" alt="" align=center />   
+    </details> 
   
 + (Scene) Extreme View Synthesis       
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Extreme_View_Synthesis_ICCV_2019_paper.pdf)]  
   
 + View Independent Generative Adversarial Network for Novel View Synthesis     
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)]  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_View_Independent_Generative_Adversarial_Network_for_Novel_View_Synthesis_ICCV_2019_paper.pdf)][[No code]]
   <details>
     <summary>Note</summary>
     <img src="img/VI-GAN.png" alt="VI-GAN" align=center />    
@@ -215,6 +250,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  
+
++ (Human) Joint Discriminative and Generative Learning for Person Re-Identification  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)][[code](https://github.com/NVlabs/DG-Net)]  
+   <details>
+       <summary>Note</summary>
+       <img src="img/DG-Net.png" alt="" align=center />   
+       - Key points:
+            - Generative module encodes each person into an appearance code A and a structure code S; 
+            - Discriminative module shares the appearance encoder with the generative module;
+            - By switching the appearance or structure codes, the generative module generates high-quality cross-id composed images, which are online fed back to the appearance encoder and used to improve the discriminative module; 
+            - Loss: (a)Reconstruction loss: L1(x_i, G(Ai, Si)), L1(x_i, G(At, Si));  (b)Encoder loss: L1(Ai, E1(G(Ai, Sj))), L1(Sj, E2(G(Ai, Sj)))  (c)GAN loss: L_adv = E[log D(xi) + log(1 − D(G(ai, sj))]  (d)Id loss (CE loss): E[−log(p(yi|xi))], E[−log(p(yi|xj))].
+    </details> 
 
 #### NeurIPS 2019
 + Positional Normalization  
