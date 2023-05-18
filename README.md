@@ -90,9 +90,17 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + [BEST PAPER] GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields  
 [[paper](https://arxiv.org/abs/2011.12100)][[code](https://github.com/autonomousvision/giraffe)]
+  <details>
+    <summary>Notes</summary>
+    <img src="img/GIRAFFE.png" alt="" align=center />  
+  </details>
 
 + pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis   
 [[paper](https://arxiv.org/abs/2012.00926)][[code](https://github.com/marcoamonteiro/pi-GAN)]
+  <details>
+    <summary>Notes</summary>
+    <img src="img/pi-GAN.png" alt="" align=center />  
+  </details>
 
 + Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification  
 [[paper](http://arxiv.org/abs/2012.09071)][[code](https://github.com/chenhao2345/GCL)]  
@@ -113,7 +121,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_ID-Unet_Iterative_Soft_and_Hard_Deformation_for_View_Synthesis_CVPR_2021_paper.pdf)]  [[code](https://github.com/MingyuY/Iterative-view-synthesis)]
   <details>
     <summary>Notes</summary>
-    <img src="img/ID-Unet_framework.png" alt="ID-Unet_framework" align=center />  
+    <img src="img/ID-Unet.png" alt="ID-Unet_framework" align=center />  
   </details>
   
 + (Scene) NeX: Real-Time View Synthesis With Neural Basis Expansion     
@@ -137,7 +145,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/yenchenlin/nerf-pytorch)]
 <details>
     <summary>Note</summary>
-    <img src="img/NERF.png" alt="GRAF" align=center />   
+    <img src="img/NERF.png" alt="NERF" align=center />   
  </details> 
 
 + Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder  
@@ -159,8 +167,8 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2007.02442)][[code](https://github.com/autonomousvision/graf)]  
    <details>
     <summary>Note</summary>
-    <img src="img/NERF.png" alt="GRAF" align=center />    
- 
+    <img src="img/GRAF_1.png" alt="" align=center />    
+    <img src="img/GRAF_2.png" alt="" align=center />    
     - Key points:
          
     </details> 
