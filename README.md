@@ -206,7 +206,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shao-Hua_Sun_Multi-view_to_Novel_ECCV_2018_paper.pdf)]
 
 #### CVPR 2018
-
 + (Vehicle) Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification       
 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)][[No code]]
   <details>
@@ -214,6 +213,13 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
     <img src="img/VAMI.png" alt="VAMI_framework" align=center />  
   </details>
 
+#### BMVC
++ (Vehicle) Cross-View GAN Based Vehicle Generation for Re-identification                
+[[paper](http://www.bmva.org/bmvc/2017/papers/paper186/paper186.pdf)][[No code]]
+  <details>
+    <summary>Notes</summary>
+    <img src="img/VAMI.png" alt="VAMI_framework" align=center />  
+  </details>
 
 
 ## Style Synthesis
