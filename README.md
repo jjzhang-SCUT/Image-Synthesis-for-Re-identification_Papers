@@ -256,6 +256,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
    <details>
        <summary>Note</summary>
        <img src="img/DG-Net.png" alt="" align=center />   
+ 
        - Key points:
             - Generative module encodes each person into an appearance code A and a structure code S; 
             - Discriminative module shares the appearance encoder with the generative module;
