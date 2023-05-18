@@ -251,18 +251,6 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + (Scene) Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching       
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Structure-Preserving_Stereoscopic_View_Synthesis_With_Multi-Scale_Adversarial_Correlation_Matching_CVPR_2019_paper.pdf)]  
 
-+ (Human) Joint Discriminative and Generative Learning for Person Re-Identification  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)][[code](https://github.com/NVlabs/DG-Net)]  
-   <details>
-       <summary>Note</summary>
-       <img src="img/DG-Net.png" alt="" align=center />   
- 
-       - Key points:
-            - Generative module encodes each person into an appearance code A and a structure code S; 
-            - Discriminative module shares the appearance encoder with the generative module;
-            - By switching the appearance or structure codes, the generative module generates high-quality cross-id composed images, which are online fed back to the appearance encoder and used to improve the discriminative module; 
-            - Loss: (a)Reconstruction loss: L1(x_i, G(Ai, Si)), L1(x_i, G(At, Si));  (b)Encoder loss: L1(Ai, E1(G(Ai, Sj))), L1(Sj, E2(G(Ai, Sj)))  (c)GAN loss: L_adv = E[log D(xi) + log(1 − D(G(ai, sj))]  (d)Id loss (CE loss): E[−log(p(yi|xi))], E[−log(p(yi|xj))].
-    </details> 
 
 #### NeurIPS 2019
 + Positional Normalization  
@@ -308,14 +296,18 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Khatun_Semantic_Consistency_and_Identity_Mapping_Multi-Component_Generative_Adversarial_Network_for_WACV_2020_paper.pdf)]  
 
 #### CVPR 2019 
-+ (Human appearance) Joint Discriminative and Generative Learning for Person Re-Identification  
++ (Human) Joint Discriminative and Generative Learning for Person Re-Identification  
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)][[code](https://github.com/NVlabs/DG-Net)]  
-
-
-
-
-
-
+   <details>
+       <summary>Note</summary>
+       <img src="img/DG-Net.png" alt="" align=center />   
+ 
+       - Key points:
+            - Generative module encodes each person into an appearance code A and a structure code S; 
+            - Discriminative module shares the appearance encoder with the generative module;
+            - By switching the appearance or structure codes, the generative module generates high-quality cross-id composed images, which are online fed back to the appearance encoder and used to improve the discriminative module; 
+            - Loss: (a)Reconstruction loss: L1(x_i, G(Ai, Si)), L1(x_i, G(At, Si));  (b)Encoder loss: L1(Ai, E1(G(Ai, Sj))), L1(Sj, E2(G(Ai, Sj)))  (c)GAN loss: L_adv = E[log D(xi) + log(1 − D(G(ai, sj))]  (d)Id loss (CE loss): E[−log(p(yi|xi))], E[−log(p(yi|xj))].
+    </details> 
 
 ## MVS
 
