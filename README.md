@@ -130,7 +130,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](http://arxiv.org/abs/2012.09071)][[code](https://github.com/chenhao2345/GCL)]  
   <details>
      <summary>Notes</summary>
-     <img src="img/GCL" alt="" align=center />    
+     <img src="img/GCL.png" alt="" align=center />    
 
      - Key points:
           - Combine generative module with contrastive module into joint training framework, where GAN provides data augmentation and contrastive module learns identity feature for generation; 
