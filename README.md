@@ -208,8 +208,11 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 #### CVPR 2018
 
 + (Vehicle) Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification       
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)]  
-
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)][[No code]]
+  <details>
+    <summary>Notes</summary>
+    <img src="img/VAMI.png" alt="VAMI_framework" align=center />  
+  </details>
 
 
 
