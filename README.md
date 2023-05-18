@@ -135,6 +135,10 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 
 + [BEST PAPER——NERF] Representing Scenes as Neural Radiance Fields for View Synthesis  
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/yenchenlin/nerf-pytorch)]
+<details>
+    <summary>Note</summary>
+    <img src="" alt="GRAF" align=center />   
+ </details> 
 
 + Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder  
 [[paper](https://arxiv.org/abs/2007.10618)]
@@ -155,7 +159,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2007.02442)][[code](https://github.com/autonomousvision/graf)]  
    <details>
     <summary>Note</summary>
-    <img src="" alt="GRAF" align=center />    
+    <img src="img/NERF.png" alt="GRAF" align=center />    
  
     - Key points:
          
