@@ -366,20 +366,4 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 #### CVPR 2019 
 + (Human) Re-Identification Supervised Texture Generation  
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]  
- 
 
-
-<!-- Comment -->
-
-#### test
-
-+ Paper     
-[[paper]()]  [[code]()]
-  <details>
-    <summary>Notes</summary>
-     <img src="img/VAMI.png" alt="referformer" align=center />  
-
-    - Key points:
-         - point1.
-         - point2.
-    </details>
