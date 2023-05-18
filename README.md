@@ -137,7 +137,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](https://arxiv.org/abs/2003.08934)][[code](https://github.com/yenchenlin/nerf-pytorch)]
 <details>
     <summary>Note</summary>
-    <img src="" alt="GRAF" align=center />   
+    <img src="img/NERF.png" alt="GRAF" align=center />   
  </details> 
 
 + Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder  
@@ -222,7 +222,7 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 [[paper](http://www.bmva.org/bmvc/2017/papers/paper186/paper186.pdf)][[No code]]
   <details>
     <summary>Notes</summary>
-    <img src="img/VAMI.png" alt="VAMI_framework" align=center />  
+    <img src="img/cross-view_gan.png" alt="" align=center />  
   </details>
 
 
