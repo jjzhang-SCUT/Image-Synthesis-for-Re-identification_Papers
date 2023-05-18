@@ -202,6 +202,12 @@ Included Conferences: CVPR, ICCV, ECCV, NeurIPS, WACV, etc.
 + Multi-view to Novel view: Synthesizing novel views with Self-Learned Confidence  
 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shao-Hua_Sun_Multi-view_to_Novel_ECCV_2018_paper.pdf)]
 
+#### CVPR 2018
+
++ (Vehicle) Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification       
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)]  
+
+
 
 
 ## Style Synthesis
